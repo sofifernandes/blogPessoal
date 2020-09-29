@@ -1,3 +1,10 @@
-p{
-    font-size: large;
+.parallax{
+    background-image: url('https://previews.123rf.com/images/cienpies/cienpies1309/cienpies130900194/22187949-isolated-colorful-social-media-icons-idea-light-bulb-shape-composition.jpg');
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
